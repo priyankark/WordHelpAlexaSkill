@@ -1,0 +1,158 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "word",
+          "type": "word"
+        }
+      ],
+      "intent": "adjective"
+    },
+    {
+      "slots": [
+        {
+          "name": "wordone",
+          "type": "word"
+        },
+        {
+          "name": "wordtwo",
+          "type": "word"
+        }
+      ],
+      "intent": "adjectiveMeaning"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "word",
+          "type": "word"
+        },
+        {
+          "name": "letter",
+          "type": "letter"
+        }
+      ],
+      "intent": "endWith"
+    },
+    {
+      "slots": [
+        {
+          "name": "word",
+          "type": "word"
+        }
+      ],
+      "intent": "nouns"
+    },
+    {
+      "slots": [
+        {
+          "name": "word",
+          "type": "word"
+        }
+      ],
+      "intent": "rhyme"
+    },
+    {
+      "slots": [
+        {
+          "name": "wordone",
+          "type": "word"
+        },
+        {
+          "name": "wordtwo",
+          "type": "word"
+        }
+      ],
+      "intent": "rhymeRelate"
+    },
+    {
+      "slots": [
+        {
+          "name": "word",
+          "type": "word"
+        },
+        {
+          "name": "letter",
+          "type": "letter"
+        }
+      ],
+      "intent": "sentence"
+    },
+    {
+      "slots": [
+        {
+          "name": "letterone",
+          "type": "letter"
+        },
+        {
+          "name": "lettertwo",
+          "type": "letter"
+        },
+        {
+          "name": "num",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "similarPattern"
+    },
+    {
+      "slots": [
+        {
+          "name": "word",
+          "type": "word"
+        }
+      ],
+      "intent": "soundLike"
+    },
+    {
+      "slots": [
+        {
+          "name": "word",
+          "type": "word"
+        }
+      ],
+      "intent": "spelledSimilar"
+    },
+    {
+      "slots": [
+        {
+          "name": "letter",
+          "type": "letter"
+        },
+        {
+          "name": "word",
+          "type": "word"
+        }
+      ],
+      "intent": "startWith"
+    },
+    {
+      "slots": [
+        {
+          "name": "word",
+          "type": "word"
+        }
+      ],
+      "intent": "synonyms"
+    },
+    {
+      "slots": [
+        {
+          "name": "word",
+          "type": "word"
+        }
+      ],
+      "intent": "trigger"
+    }
+  ]
+}

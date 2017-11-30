@@ -1,0 +1,11 @@
+Short description
+Word Help is your best companion for word games.
+ Find similar words, adjectives, nouns, rhyming words or look for particular patterns.
+
+ Long description
+
+ Word Help allows you to find synonyms, rhyming words, adjectives and look for other associations between words.
+ The top five words are spoken and other possibilities are shown on a card in the Alexa app.
+
+You can use this skill to assist you in word games like scrable or perhaps for writing prose and poetry or
+ maybe just as a reference

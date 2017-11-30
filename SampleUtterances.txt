@@ -1,0 +1,39 @@
+adjective to find adjectives that are often used to describe {word}
+adjective to find adjectives used to describe {word}
+adjective to find adjectives that describe {word}
+adjective to find adjectives which describe {word}
+adjectiveMeaning to find adjectives describing {wordone} sorted by how related they are to {wordtwo}
+endWith to find words related to {word} that end with the letter {letter}
+endWith to find words that mean {word} that end with the letter {letter}
+endWith to find words meaning {word} and ending with letter {letter}
+endWith to find words related to {word} that end with {letter}
+nouns to find nouns that are often described by the adjective {word}
+nouns to find nouns described by {word}
+nouns to find nouns described by the adjective {word}
+nouns to find nouns that are described by {word}
+nouns to find nouns which are described by {word}
+rhyme to find words that rhyme with {word}
+rhyme to find words rhyming with {word}
+rhymeRelate to find words that rhyme with {wordone} that are related to {wordtwo}
+rhymeRelate to find words rhyming with {wordone} and meaning {wordtwo}
+rhymeRelate to find words rhyming with {wordone} and relating to {wordtwo}
+sentence to find words that often follow {word} in a sentence that start with the letter {letter}
+sentence to find words that often follow {word} and start with letter {letter}
+sentence to find words that often follow {word} in a sentence and start with {letter}
+similarPattern to find words that start with {letterone} end in {lettertwo} and have {num} letters in between
+similarPattern to find words starting with {letterone} ending in {lettertwo} and having {num} letters in between
+soundLike to find words that sound like {word}
+soundLike to find words with similar sound as {word}
+spelledSimilar to find words that are spelled similarly to {word}
+startWith to find words similar to {word} and that start with the letter {letter}
+startWith to find words that mean {word} and that start with {letter}
+startWith to find words that start with {letter} and mean {word}
+startWith to find words that mean {word} and that start with the letter {letter}
+startWith to find words meaning {word} and starting with {letter}
+startWith to find words meaning {word} and starting with the letter {letter}
+startWith to find words related to {word} that start with the letter {letter}
+synonyms to find words similar to {word}
+synonyms to find synonyms of {word}
+synonyms to find meaning of {word}
+synonyms to find words with a similar meaning to {word}
+trigger to find words that are triggered by the word {word}

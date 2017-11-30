@@ -1,0 +1,19 @@
+{
+  "name": "wordhelper",
+  "version": "1.0.0",
+  "description": "Word Helper Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "word",
+    "helper"
+  ],
+  "author": "Open Corp: Pri97 and Smk",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.21",
+    "node-rest-client": "^3.1.0"
+  }
+}
